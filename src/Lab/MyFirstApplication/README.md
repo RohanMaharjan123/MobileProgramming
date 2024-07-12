@@ -1,6 +1,6 @@
-# Program for print hello world in Android.
+# Program for printing hello world in Android.
 
-**Name**: Program for print hello world in Android.
+**Name**: Program for printing hello world in Android.
 
 **Date**: July 12th, 2024
 
