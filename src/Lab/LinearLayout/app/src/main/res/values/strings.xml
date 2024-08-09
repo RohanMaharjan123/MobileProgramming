@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Linear Layout</string>
+    <string name="true_id">True</string>
+    <string name="false_id">False</string>
+</resources>
