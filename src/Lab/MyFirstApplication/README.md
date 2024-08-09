@@ -57,4 +57,4 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output
 
-![Program to Display a JFrame](./output.png)
+![Program to Display Hello World in Android](./output.png)
