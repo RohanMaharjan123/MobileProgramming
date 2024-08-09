@@ -1,4 +1,4 @@
-# Program for printing hello world in Android.
+# Program for printing 'Hello World!' in Android.
 
 **Name**: Program for printing hello world in Android.
 
@@ -35,7 +35,8 @@ public class MainActivity extends AppCompatActivity {
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
