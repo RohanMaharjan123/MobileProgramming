@@ -6,6 +6,8 @@
 
 ## Source Code
 
+## Java Code
+
 ```java
 package com.example.myfirstapplication;
 
@@ -32,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
+## XML Code
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
