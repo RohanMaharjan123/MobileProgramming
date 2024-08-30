@@ -6,6 +6,8 @@
 
 ## Source Code
 
+## Java Code
+
 ```java
 package com.example.myfirstapplication;
 
@@ -33,6 +35,8 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
+## XML Code
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout 
@@ -55,6 +59,8 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
+## Strings Resource Code
 
 ```strings
 <resources>
