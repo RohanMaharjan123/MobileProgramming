@@ -6,7 +6,7 @@
 
 ## Source Code
 
-## Java Code
+## MainActivity.java Code
 
 ```java
 package com.example.myfirstapplication;
