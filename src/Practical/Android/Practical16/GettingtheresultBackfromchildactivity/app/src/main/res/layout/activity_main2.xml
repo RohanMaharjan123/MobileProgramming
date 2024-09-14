@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity2">
+
+    <EditText
+        android:id="@+id/editTextNum1InActivity2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter the first number"
+        android:inputType="number"/>
+
+    <EditText
+        android:id="@+id/editTextNum2InActivity2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter the second number"
+        android:inputType="number"/>
+
+    <Button
+        android:id="@+id/addButtonInActivity2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:layout_marginTop="20dp"/>
+
+</LinearLayout>
