@@ -1,8 +1,8 @@
 # Program for using Relative Layout making login form
 
-**Name**: Program for using Linear Layout making login form
+**Name**: Program for using Relative Layout making login form
 
-**Date**: September 14th, 2024
+**Date**: September 16th, 2024
 
 ## Source Code
 
@@ -110,9 +110,7 @@ public class MainActivity extends AppCompatActivity {
         android:layout_marginStart="50dp"
         android:backgroundTint="#FF2000F3"
         android:layout_toEndOf="@+id/tv2"
-        android:layout_marginTop="200dp"
-
-        />
+        android:layout_marginTop="200dp"/>
 
 </RelativeLayout>
 ```
@@ -151,4 +149,4 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output
 
-![Program  for using Linear Layout with Toast method for displaying name after clicking it.](./output.png)
+![Program for using Relative Layout making login form](./output.png)
